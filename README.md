@@ -182,4 +182,3 @@ Repository claims must match working capability. Planned services are marked as 
 ## License
 
 [MIT](LICENSE). Production use requires an independent security and operational review.
-!
